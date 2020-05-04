@@ -8,7 +8,7 @@ echo strpos($str,"is");
 ?>
 
 
-<?php          //Case sensitive use strpos
+<?php          
 echo"<br>";
 $str="This is an example which is simple string";
 echo strpos($str,"simple");
